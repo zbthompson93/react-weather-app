@@ -1,0 +1,22 @@
+body{
+  background-color: #9f79ee;
+}
+
+.main-container{
+  width: 60%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+.daily-weather-container{
+  margin: 30px 20px;
+}
+
+.error-msg{
+  margin-top: 30px;
+  font-size: 30px;
+}
